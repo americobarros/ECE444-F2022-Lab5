@@ -27,7 +27,7 @@ select.common-page-heading-container, input.common-page-heading-container {
 .common-page-form {
     border: 2px solid #00204E;
     border-radius: 20px;
-    padding: auto;
+    padding: 20px;
     margin: 20px auto;
 }
 
